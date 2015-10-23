@@ -1,5 +1,5 @@
 <?php
-namespace Application\Theme\Signature2015;
+namespace Application\Theme\signature2016;
 class PageTheme extends \Concrete\Core\Page\Theme\Theme {
 
 	public function registerAssets() {
