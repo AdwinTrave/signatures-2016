@@ -1,5 +1,5 @@
 <?php
-namespace Concrete\Theme\Signatures2016;
+namespace Application\Theme\Signatures2016;
 
 use Concrete\Core\Area\Layout\Preset\Provider\ThemeProviderInterface;
 
